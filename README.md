@@ -1,1 +1,4 @@
 # MAHIR
+
+cd mahir
+
